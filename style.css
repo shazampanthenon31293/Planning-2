@@ -1,0 +1,18 @@
+p{
+    line-height: .9;
+    font-family: monospace;
+}
+table, td, th {
+    border: 1px solid;
+} 
+table {
+    border-collapse: collapse;
+}
+a:link,a:visited{
+    color: blue;
+}
+button{
+    padding: 3px;
+    font-family: monospace;
+    font-weight: bold;
+}
